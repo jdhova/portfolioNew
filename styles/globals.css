@@ -1,0 +1,51 @@
+@import url("./fonts.css");
+*,html{
+  scroll-behavior: smooth !important;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-dark:#1E2326;
+    --color-primary: #1abc9c;
+    --Ralway-font: "Raleway", ui-sans-serif, system-ui, -apple-system,
+      BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+      "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+      "Segoe UI Symbol", "Noto Color Emoji";
+    --Inter-font: "Inter", ui-sans-serif, system-ui, -apple-system,
+      BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+      "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+      "Segoe UI Symbol", "Noto Color Emoji";
+  }
+  *::selection:not(image){
+    background-color: var(--color-primary);
+    color: #fff;
+  }
+  
+  body{
+    font-family: var(--Inter-font);
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--Ralway-font);
+    font-weight: 700;
+  }
+}
+
+@layer utilities {
+  .banner-heading {
+    @apply text-white text-center text-3xl md:text-[2.5rem] uppercase;
+    letter-spacing: 3px;
+    line-height: 3.75rem;
+  }
+  .max-container{
+    @apply container mx-auto max-w-full md:max-w-7xl px-4
+  }
+}
+
