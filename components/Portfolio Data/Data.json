@@ -18,11 +18,11 @@
       },
       {
         "heading": "ETL | DATABASE",
-        "desc": "Building Pipelines and Data Models/Warehouse with SSIS/ ,"
+        "desc": "Building Pipelines and Data Models/Warehouse with SSIS"
       },
       {
         "heading": "POWER BI",
-        "desc": "CClan data wiith python and SSI and Build Informative Dashboard"
+        "desc": "Clean data wiith python and SSI and Build Informative Dashboard"
       },
       {
         "heading": "DEPLOYMENT",
@@ -32,7 +32,7 @@
     "About_Jude": {
       "Jude": {
         "heading": "Who's Jude OKAGU ?",
-        "desc": "Im a Results-driven and highly skilled Junior Developer with over 2 years of experience in software development, business intelligence analytics, ETL, and Data engineering"
+        "desc": "Im a Results-driven and highly skilled Junior Developer with over 2 years of experience in software development, business intelligence analytics, ETL, and Data engineering POWER BI. Proven ability to collaborate with internal teams and third-party partners to deliver visually apealing dashboard and top notch software developent  products which help in maximazing and improving profit  for businesses. "
         
       },
       "Skills": [
@@ -42,9 +42,9 @@
         { "heading": "FULL STACK DEV", "percentage": "85" },
         { "heading": "REACT JS", "percentage": "85" },
         { "heading": "PYTHON", "percentage": "85" },
-        { "heading": "STONG COMMINICATION SKILLS", "percentage": "80" },
-        { "heading": "SSIS,SSMS and POWER BI", "percentage": "80" },
-        { "heading": "TEAM WORK AND SELF MOTIVATION", "percentage": "80" }
+        { "heading": "STONG COMMINICATION SKILLS", "percentage": "85" },
+        { "heading": "SSIS,SSMS and POWER BI", "percentage": "85" },
+        { "heading": "TEAM WORK AND SELF MOTIVATION", "percentage": "85" }
       ]
     }
   },
@@ -53,7 +53,7 @@
       "heading": "MY PROJECTS",
       "desc": "Check Out my mind blowing projects."
     },
-    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT JS", "NODE JS, POWER BI"],
+    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT JS", "NODE JS", "POWER BI"],
     "Projects_Cards": [
       {
         "heading": "Gifts Delights",
