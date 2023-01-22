@@ -18,11 +18,11 @@
       },
       {
         "heading": "ETL | DATABASE",
-        "desc": "Lorem ipsum Dolor sit amat teur brief gate"
+        "desc": "Building Pipelines and Data Models/Warehouse with SSIS/ ,"
       },
       {
         "heading": "POWER BI",
-        "desc": "Lorem ipsum Dolor sit amat teur brief gate"
+        "desc": "CClan data wiith python and SSI and Build Informative Dashboard"
       },
       {
         "heading": "DEPLOYMENT",
@@ -32,18 +32,19 @@
     "About_Jude": {
       "Jude": {
         "heading": "Who's Jude OKAGU ?",
-        "desc": "I'm a Full stack developer and Business Intelligence Analyst based in Halifax NS.I'm a natural problem solver & extremly passionate about software development and tech in general, My Master Thesis also focused on cloud computing."
+        "desc": "Im a Results-driven and highly skilled Junior Developer with over 2 years of experience in software development, business intelligence analytics, ETL, and Data engineering"
+        
       },
       "Skills": [
-        { "heading": "REACT JS", "percentage": "90" },
-        { "heading": "JS", "percentage": "90" },
-        { "heading": "FIREBASE", "percentage": "85" },
+        { "heading": "SQL", "percentage": "90" },
+        { "heading": "PROBLEM SOLVING /ANALTICAL THINKING", "percentage": "90" },
+        { "heading": "FAST LEARNER", "percentage": "85" },
         { "heading": "FULL STACK DEV", "percentage": "85" },
-        { "heading": "NODE JS", "percentage": "85" },
-        { "heading": "AWS", "percentage": "85" },
-        { "heading": "HTML", "percentage": "80" },
-        { "heading": "CSS", "percentage": "80" },
-        { "heading": "ANALYSIS", "percentage": "75" }
+        { "heading": "REACT JS", "percentage": "85" },
+        { "heading": "PYTHON", "percentage": "85" },
+        { "heading": "STONG COMMINICATION SKILLS", "percentage": "80" },
+        { "heading": "SSIS,SSMS and POWER BI", "percentage": "80" },
+        { "heading": "TEAM WORK AND SELF MOTIVATION", "percentage": "80" }
       ]
     }
   },
@@ -52,7 +53,7 @@
       "heading": "MY PROJECTS",
       "desc": "Check Out my mind blowing projects."
     },
-    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT JS", "NODE JS"],
+    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT JS", "NODE JS, POWER BI"],
     "Projects_Cards": [
       {
         "heading": "Gifts Delights",
@@ -123,6 +124,11 @@
         "imageSrc": "/project-images/img-10.png",
         "githubLink": "https://github.com/jdhova/Gift-Delight-Hydrogen-Oxygen",
         "websiteLink": "https://eleventy-project-jgqy53ujz-jdhova.vercel.app/"
+      },
+      {
+        "heading": "TECH CAREER ANALYSIS DASHBOARD",
+        "tags": ["POWER BI"],
+        "imageSrc": "/project-images/img-11.png"  
       }
     ]
   },
