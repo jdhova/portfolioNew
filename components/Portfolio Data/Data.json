@@ -22,7 +22,7 @@
       },
       {
         "heading": "POWER BI",
-        "desc": "Clean data wiith python and SSI and Build Informative Dashboard"
+        "desc": "Clean data wiith python and SSI. Build Informative Dashboard"
       },
       {
         "heading": "DEPLOYMENT",
@@ -32,7 +32,7 @@
     "About_Jude": {
       "Jude": {
         "heading": "Who's Jude OKAGU ?",
-        "desc": "Im a Results-driven and highly skilled Junior Developer with over 2 years of experience in software development, business intelligence analytics, ETL, and Data engineering POWER BI. Proven ability to collaborate with internal teams and third-party partners to deliver visually apealing dashboard and top notch software developent  products which help in maximazing and improving profit  for businesses. "
+        "desc": "Im a Results-driven and highly skilled Junior Developer with over 2 years of experience in software development, business intelligence analytics, ETL, and Data engineering. Proven ability to collaborate with internal teams and third-party partners to deliver visually apealing dashboard and top notch software developent  products which help in maximazing and improving profit  for businesses. "
         
       },
       "Skills": [
@@ -126,7 +126,7 @@
         "websiteLink": "https://eleventy-project-jgqy53ujz-jdhova.vercel.app/"
       },
       {
-        "heading": "TECH CAREER ANALYSIS DASHBOARD",
+        "heading": "Tech Career Analysis Dashboard",
         "tags": ["POWER BI"],
         "imageSrc": "/project-images/img-11.png"  
       }
