@@ -17,12 +17,12 @@
         "desc": "Fast and responsive web apps"
       },
       {
-        "heading": "ETL | DATABASE",
+        "heading": "POWER BI",
         "desc": "Building Pipelines and Data Models/Warehouse with SSIS"
       },
       {
-        "heading": "POWER BI",
-        "desc": "Clean data wiith python and SSI. Build Informative Dashboard"
+        "heading": "ETL | DATABASE",
+        "desc": "Clean data wiith python and SSI. Build Informative Dashboard "
       },
       {
         "heading": "DEPLOYMENT",
@@ -32,7 +32,7 @@
     "About_Jude": {
       "Jude": {
         "heading": "Who's Jude OKAGU ?",
-        "desc": "Im a Results-driven and highly skilled Junior Developer with over 2 years of experience in software development, business intelligence analytics, ETL, and Data engineering. Proven ability to collaborate with internal teams and third-party partners to deliver visually apealing dashboard and top notch software developent  products which help in maximazing and improving profit  for businesses. "
+        "desc": "I am a Results-driven and highly skilled Junior Developer with over 2 years of experience in software development, business intelligence analytics, ETL, and Data engineering. Proven ability to collaborate with internal teams and third-party partners to deliver visually appealing dashboard and top notch software development products which help in maximizing and improving profit for businesses. "
         
       },
       "Skills": [
@@ -40,11 +40,12 @@
         { "heading": "PROBLEM SOLVING /ANALTICAL THINKING", "percentage": "90" },
         { "heading": "FAST LEARNER", "percentage": "85" },
         { "heading": "FULL STACK DEV", "percentage": "85" },
-        { "heading": "REACT JS", "percentage": "85" },
-        { "heading": "PYTHON", "percentage": "85" },
+        { "heading": "JavaScript,REACT-JS", "percentage": "85" },
+        { "heading": "PYTHON,Numpy,Pandas", "percentage": "85" },
         { "heading": "STONG COMMINICATION SKILLS", "percentage": "85" },
         { "heading": "SSIS,SSMS and POWER BI", "percentage": "85" },
         { "heading": "TEAM WORK AND SELF MOTIVATION", "percentage": "85" }
+        
       ]
     }
   },
@@ -53,18 +54,18 @@
       "heading": "MY PROJECTS",
       "desc": "Check Out my mind blowing projects."
     },
-    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT JS", "NODE JS", "POWER BI"],
+    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT-FULLSTACK", "NODE JS", "POWER BI","ELT"],
     "Projects_Cards": [
       {
         "heading": "Gifts Delights",
-        "tags": ["REACT JS"],
+        "tags": ["REACT-FULLSTACK"],
         "imageSrc": "/project-images/img-1.png",
         "githubLink": "https://github.com/aayushi1852/bootstrap-assignment",
         "websiteLink": "https://aayushi1852.github.io/bootstrap-assignment/"
       },
       {
         "heading": "Flexx",
-        "tags": ["REACT JS", "FIREBASE", "NODE JS"],
+        "tags": ["REACT-FULLSTACK"],
         "imageSrc": "/project-images/img-2.png",
         "githubLink": "https://github.com/jdhova/e-comm",
         "websiteLink": "https://e-comm-6609c.web.app"
@@ -106,7 +107,7 @@
       },
       {
         "heading": "Next.JS Resturant App",
-        "tags": ["REACT JS", "NEXT JS"],
+        "tags": ["REACT-FULLSTACK"],
         "imageSrc": "/project-images/img-8.png",
         "githubLink": "https://github.com/jdhova/next-js-dev",
         "websiteLink": "https://next-js-dev.vercel.app/"
@@ -129,6 +130,13 @@
         "heading": "Tech Career Analysis Dashboard",
         "tags": ["POWER BI"],
         "imageSrc": "/project-images/img-11.png"  
+      },
+      {
+        "heading": "UK Trafic Data ETL",
+        "tags": ["ETL"],
+        "imageSrc": "/project-images/img-12.png",
+        "githubLink": "https://github.com/jdhova/TrafficCSV-ETL"
+        
       }
     ]
   },
