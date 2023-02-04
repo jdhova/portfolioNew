@@ -54,7 +54,7 @@
       "heading": "MY PROJECTS",
       "desc": "Check Out my mind blowing projects."
     },
-    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT-FULLSTACK", "NODE JS", "POWER BI","ELT"],
+    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT-FULLSTACK", "POWER BI", "ETL"],
     "Projects_Cards": [
       {
         "heading": "Gifts Delights",
