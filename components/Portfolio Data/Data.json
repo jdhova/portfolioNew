@@ -38,13 +38,16 @@
       "Skills": [
         { "heading": "SQL", "percentage": "90" },
         { "heading": "PROBLEM SOLVING /ANALTICAL THINKING", "percentage": "90" },
+        { "heading": "LINEAR AND LOGISTIC REGRESSION(scikit-learn)", "percentage": "90" },
         { "heading": "FAST LEARNER", "percentage": "85" },
         { "heading": "FULL STACK DEV", "percentage": "85" },
         { "heading": "JavaScript,REACT-JS", "percentage": "85" },
+        { "heading": "STATISTICS AND MACHING LEARNINNG", "percentage": "85" },
         { "heading": "PYTHON,Numpy,Pandas", "percentage": "85" },
         { "heading": "STONG COMMINICATION SKILLS", "percentage": "85" },
         { "heading": "SSIS,SSMS and POWER BI", "percentage": "85" },
         { "heading": "TEAM WORK AND SELF MOTIVATION", "percentage": "85" }
+       
         
       ]
     }
@@ -54,7 +57,7 @@
       "heading": "MY PROJECTS",
       "desc": "Check Out my mind blowing projects."
     },
-    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT-FULLSTACK", "POWER BI", "ETL"],
+    "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT-FULLSTACK", "POWER BI", "EDA/ETL"],
     "Projects_Cards": [
       {
         "heading": "Gifts Delights",
@@ -132,10 +135,24 @@
         "imageSrc": "/project-images/img-11.png"  
       },
       {
+        "heading": "UK-Traffic ED Analysis Dashboard",
+        "tags": ["POWER BI"],
+        "imageSrc": "/project-images/UK-Traf.png",
+        "githubLink": "https://github.com/jdhova/jdhova-UK_Traffic_EDA" 
+        
+      },
+      {
         "heading": "UK Trafic Data ETL",
-        "tags": ["ETL"],
-        "imageSrc": "/project-images/img-12.png",
+        "tags": ["EDA/ETL"],
+        "imageSrc": "/project-images/UK-Traf.png",
         "githubLink": "https://github.com/jdhova/TrafficCSV-ETL"
+        
+      },
+      {
+        "heading": "SEATTLE HOUSING (LINEAR REGRESSION EDA)",
+        "tags": ["EDA/ETL"],
+        "imageSrc": "/project-images/Len-Reg.png",
+        "githubLink": "https://github.com/jdhova/Seattle_Property_Model"
         
       }
     ]
