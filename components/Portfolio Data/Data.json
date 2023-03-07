@@ -67,7 +67,13 @@
         "githubLink": "https://github.com/jdhova/e-comm",
         "websiteLink": "https://e-comm-6609c.web.app"
       },
- 
+      {
+        "heading": "Gifts Delights",
+        "tags": ["REACT-FULLSTACK"],
+        "imageSrc": "/project-images/img-1.png",
+        "githubLink": "https://github.com/aayushi1852/bootstrap-assignment",
+        "websiteLink": "https://aayushi1852.github.io/bootstrap-assignment/"
+      },
 
       {
         "heading": "JS Maths Game",
