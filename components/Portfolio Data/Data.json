@@ -59,13 +59,7 @@
     },
     "Filter_Tabs": ["ALL", "JAVASCRIPT", "REACT-FULLSTACK", "POWER BI", "EDA/ETL"],
     "Projects_Cards": [
-      {
-        "heading": "Gifts Delights",
-        "tags": ["REACT-FULLSTACK"],
-        "imageSrc": "/project-images/img-1.png",
-        "githubLink": "https://github.com/aayushi1852/bootstrap-assignment",
-        "websiteLink": "https://aayushi1852.github.io/bootstrap-assignment/"
-      },
+ 
       {
         "heading": "Flexx",
         "tags": ["REACT-FULLSTACK"],
@@ -73,20 +67,8 @@
         "githubLink": "https://github.com/jdhova/e-comm",
         "websiteLink": "https://e-comm-6609c.web.app"
       },
-      {
-        "heading": "Algorithms and Data Structures",
-        "tags": ["JAVASCRIPT"],
-        "imageSrc": "/project-images/img-3.png",
-        "githubLink": "https://github.com/jdhova/JS-Algorithms-and-Data-Structures",
-        "websiteLink": ""
-      },
-      {
-        "heading": "Cocktail Finder",
-        "tags": ["JAVASCRIPT"],
-        "imageSrc": "/project-images/img-4.png",
-        "githubLink": "https://github.com/jdhova/cocktail-finder-api",
-        "websiteLink": "https://jdhova.github.io/cocktail-finder-api/"
-      },
+ 
+
       {
         "heading": "JS Maths Game",
         "tags": ["JAVASCRIPT"],
@@ -94,13 +76,7 @@
         "githubLink": "https://github.com/jdhova/maths-game",
         "websiteLink": "https://jdhova.github.io/maths-game/"
       },
-      {
-        "heading": "Music Player",
-        "tags": ["JAVASCRIPT"],
-        "imageSrc": "/project-images/img-6.png",
-        "githubLink": "https://github.com/jdhova/music-player-project",
-        "websiteLink": "https://jdhova.github.io/music-player-project/"
-      },
+ 
       {
         "heading": "Type Script Math Game",
         "tags": ["JAVASCRIPT"],
@@ -108,13 +84,7 @@
         "githubLink": "https://github.com/jdhova/typescript-game",
         "websiteLink": "https://jdhova.github.io/typescript-game/"
       },
-      {
-        "heading": "Next.JS Resturant App",
-        "tags": ["REACT-FULLSTACK"],
-        "imageSrc": "/project-images/img-8.png",
-        "githubLink": "https://github.com/jdhova/next-js-dev",
-        "websiteLink": "https://next-js-dev.vercel.app/"
-      },
+
       {
         "heading": "Eleventy-app Project",
         "tags": ["JAVASCRIPT", "JAMSTACK", "ELEVENTY"],
@@ -122,13 +92,7 @@
         "githubLink": "https://github.com/jdhova/eleventy-project",
         "websiteLink": "https://eleventy-project-jgqy53ujz-jdhova.vercel.app/"
       },
-      {
-        "heading": "Shopify Hydrogen App",
-        "tags": ["REACT JS", "JAVASCRIPT", "HYDROGEN"],
-        "imageSrc": "/project-images/img-10.png",
-        "githubLink": "https://github.com/jdhova/Gift-Delight-Hydrogen-Oxygen",
-        "websiteLink": "https://eleventy-project-jgqy53ujz-jdhova.vercel.app/"
-      },
+
       {
         "heading": "Tech Career Analysis Dashboard",
         "tags": ["POWER BI"],
@@ -144,7 +108,7 @@
       {
         "heading": "UK Trafic Data ETL",
         "tags": ["EDA/ETL"],
-        "imageSrc": "/project-images/UK-Traf.png",
+        "imageSrc": "/project-images/img-12.png",
         "githubLink": "https://github.com/jdhova/TrafficCSV-ETL"
         
       },
