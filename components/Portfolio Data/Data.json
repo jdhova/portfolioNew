@@ -38,16 +38,14 @@
       "Skills": [
         { "heading": "SQL", "percentage": "90" },
         { "heading": "PROBLEM SOLVING /ANALTICAL THINKING", "percentage": "90" },
-        { "heading": "LINEAR AND LOGISTIC REGRESSION(scikit-learn)", "percentage": "90" },
-        { "heading": "FAST LEARNER", "percentage": "85" },
-        { "heading": "FULL STACK DEV", "percentage": "85" },
-        { "heading": "JavaScript,REACT-JS", "percentage": "85" },
-        { "heading": "STATISTICS AND MACHING LEARNINNG", "percentage": "85" },
+        { "heading": "STATISTICS AND MACHING LEARNINNG", "percentage": "90" },
         { "heading": "PYTHON,Numpy,Pandas", "percentage": "85" },
-        { "heading": "STONG COMMINICATION SKILLS", "percentage": "85" },
+        { "heading": "PYCARET", "percentage": "85" },
         { "heading": "SSIS,SSMS and POWER BI", "percentage": "85" },
-        { "heading": "TEAM WORK AND SELF MOTIVATION", "percentage": "85" }
-       
+        { "heading": "FULL STACK DEV,REACT-JS", "percentage": "85" },
+        { "heading": "STONG COMMINICATION SKILLS", "percentage": "85" },
+        { "heading": "FAST LEARNER", "percentage": "85" }, 
+        { "heading": "TEAM WORK AND SELF MOTIVATION", "percentage": "85" }      
         
       ]
     }
@@ -123,6 +121,13 @@
         "tags": ["EDA/ETL"],
         "imageSrc": "/project-images/Len-Reg.png",
         "githubLink": "https://github.com/jdhova/Seattle_Propety_Model-LinerRegression"
+        
+      },
+        {
+        "heading": "PYCARET (REGRESSION AND CLASSIFICATION)",
+        "tags": ["EDA/ETL"],
+        "imageSrc": "/project-images/pycaret.png",
+        "githubLink": "https://github.com/jdhova/Pycaret-Projects"
         
       }
     ]
