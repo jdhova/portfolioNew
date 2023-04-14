@@ -2,8 +2,8 @@
   "Banner": {
     "heading": [
       "HELLO, I'M ",
-      "JUDE OKAGU. ",
-      "I'M A SOFTWARE AND DATA ENGINEER."
+      "JUDE OKAGU.",
+      "I'M A BUSINESS INTELIGENCE / DATA ANALYST."
     ]
   },
   "About": {
@@ -25,14 +25,14 @@
         "desc": "Clean data wiith python and SSI. Build Informative Dashboard "
       },
       {
-        "heading": "DEPLOYMENT",
-        "desc": "Deploy and manage webapps and sites"
+        "heading": "MACHING LEARNINNG",
+        "desc": "Build MACHINE LEARDNING MODELS"
       }
     ],
     "About_Jude": {
       "Jude": {
         "heading": "Who's Jude OKAGU ?",
-        "desc": "I am a Results-driven and highly skilled Junior Developer with over 2 years of experience in software development, business intelligence analytics, ETL, and Data engineering. Proven ability to collaborate with internal teams and third-party partners to deliver visually appealing dashboard and top notch software development products which help in maximizing and improving profit for businesses. "
+        "desc": "I am a Results-driven and highly skilled Junior Developer with experience in software development, business intelligence analytics, ETL, and Data engineering. Proven ability to collaborate with internal teams and third-party partners to deliver visually appealing dashboard and top notch software development products which help in maximizing and improving profit for businesses. "
         
       },
       "Skills": [
@@ -128,6 +128,13 @@
         "tags": ["EDA/ETL"],
         "imageSrc": "/project-images/pycaret.png",
         "githubLink": "https://github.com/jdhova/Pycaret-Projects"
+        
+      },
+       {
+        "heading": "PYCARET/ETL/POWER-BI (CAPSTONE)",
+        "tags": ["EDA/ETL"],
+        "imageSrc": "/project-images/capstone.png",
+        "githubLink": "https://github.com/jdhova/Capstone"
         
       }
     ]
