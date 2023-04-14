@@ -25,8 +25,8 @@
         "desc": "Clean data wiith python and SSI. Build Informative Dashboard "
       },
       {
-        "heading": "MACHING LEARNINNG",
-        "desc": "Build MACHINE LEARDNING MODELS"
+        "heading": "MACHINE LEARNING",
+        "desc": "Build MACHINE LEARNING MODELS"
       }
     ],
     "About_Jude": {
@@ -38,9 +38,9 @@
       "Skills": [
         { "heading": "SQL", "percentage": "90" },
         { "heading": "PROBLEM SOLVING /ANALTICAL THINKING", "percentage": "90" },
-        { "heading": "STATISTICS AND MACHING LEARNINNG", "percentage": "90" },
+        { "heading": "STATISTICS AND MACHINE LEARNING", "percentage": "90" },
         { "heading": "PYTHON,Numpy,Pandas", "percentage": "85" },
-        { "heading": "PYCARET", "percentage": "85" },
+        { "heading": "PYCARET,SCIKIT-LEARN", "percentage": "85" },
         { "heading": "SSIS,SSMS and POWER BI", "percentage": "85" },
         { "heading": "FULL STACK DEV,REACT-JS", "percentage": "85" },
         { "heading": "STONG COMMINICATION SKILLS", "percentage": "85" },
