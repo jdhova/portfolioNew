@@ -3,7 +3,7 @@
     "heading": [
       "HELLO, I'M ",
       "JUDE OKAGU.",
-      "I'M A BUSINESS INTELIGENCE / DATA ANALYST."
+      "I'M A BUSINESS INTELIGENCE ANALYST."
     ]
   },
   "About": {
@@ -135,6 +135,13 @@
         "tags": ["EDA/ETL"],
         "imageSrc": "/project-images/capstone.png",
         "githubLink": "https://github.com/jdhova/Capstone"
+        
+      },
+      {
+        "heading": "POWER-BI (CAPSTONE)",
+        "tags": ["POWER BI"],
+        "imageSrc": "/project-images/capstone.png",
+        "githubLink": "https://github.com/jdhova/powerBI-Capstone/blob/main/README.md"
         
       }
     ]
