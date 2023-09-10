@@ -26,7 +26,7 @@ const Footer = ({ tagline }) => {
           </Link>
           <Link
             target="_blank"
-            href="https://stackoverflow.com/users/10671168/jude-okagu"
+            href="https://github.com/jdhova"
             className={styles.socialLink}
           >
             <GithubIcon size="36" />
