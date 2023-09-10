@@ -32,20 +32,22 @@
     "About_Jude": {
       "Jude": {
         "heading": "Who's Jude OKAGU ?",
-        "desc": "I am a Results-driven and highly skilled Junior Developer with experience in software development, business intelligence analytics, ETL, and Data engineering. Proven ability to collaborate with internal teams and third-party partners to deliver visually appealing dashboard and top notch software development products which help in maximizing and improving profit for businesses. "
+        "desc": "I am a Results-driven and highly skilled Data Analyst with experience in software development, business intelligence analytics, ETL, and Data engineering. Proven ability to collaborate with internal teams and third-party partners to deliver visually appealing dashboard and top notch software development products which help in maximizing and improving profit for businesses. "
         
       },
       "Skills": [
         { "heading": "SQL", "percentage": "90" },
+        { "heading": "MICROSOFT EXCEL,POWERPOINT", "percentage": "90" },
+        { "heading": "FAST LEARNER", "percentage": "85" }, 
+        { "heading": "TEAM WORK AND SELF MOTIVATION", "percentage": "85" },
         { "heading": "PROBLEM SOLVING /ANALTICAL THINKING", "percentage": "90" },
+        { "heading": "JIRA- AGILE METHODOLOGY", "percentage": "85" },
         { "heading": "STATISTICS AND MACHINE LEARNING", "percentage": "90" },
         { "heading": "PYTHON,Numpy,Pandas", "percentage": "85" },
         { "heading": "PYCARET,SCIKIT-LEARN", "percentage": "85" },
         { "heading": "SSIS,SSMS and POWER BI", "percentage": "85" },
-        { "heading": "FULL STACK DEV,REACT-JS", "percentage": "85" },
-        { "heading": "STONG COMMINICATION SKILLS", "percentage": "85" },
-        { "heading": "FAST LEARNER", "percentage": "85" }, 
-        { "heading": "TEAM WORK AND SELF MOTIVATION", "percentage": "85" }      
+        { "heading": "STONG COMMINICATION SKILLS", "percentage": "85" }
+     
         
       ]
     }
